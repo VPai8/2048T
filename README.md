@@ -2,7 +2,7 @@
 Play 2048 on Linux terminal.
 Written in C++ using ncurses library.
 ### Get
-    git clone https://github.com/vpai123/2048T.git
+    git clone https://github.com/VPai8/2048T.git
     make && ./game
 
 ncurses library for Ubuntu obtained via,
